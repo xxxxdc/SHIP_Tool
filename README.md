@@ -104,4 +104,7 @@
    sh /home/start.sh
    ```
 
+## 使用教程
+
+[用户手册](https://github.com/xxxxdc/SHIP_Tool/help.pdf)
    
